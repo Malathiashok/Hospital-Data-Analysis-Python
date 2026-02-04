@@ -3,7 +3,7 @@
 ##  Project Overview
 This project analyzes hospital data using Python to uncover insights related to patient records, hospital performance, and cost-related metrics.
 
-## 🛠Tools Used
+## Tools Used
 - Python
 - Pandas
 - NumPy
